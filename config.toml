@@ -1,6 +1,6 @@
 baseURL = 'https://example.com'
 languageCode = 'en-us'
-title = 'Pricing information | aspose.com'
+title = 'Pricing information | groupdocs.com'
 theme = 'pricing'
 draft = "false"
 
@@ -85,14 +85,14 @@ draft = "false"
 
 
 [params.dynamicmenuid]
-  en = "aspose-en"
-  de = "aspose-de"
-  zh = "aspose-zh"
-  ja = "aspose-ja"
-  ru = "aspose-ru"
-  it = "aspose-it"
-  es = "aspose-es"
-  fr = "aspose-fr"
+  en = "groupdocs-en"
+  de = "groupdocs-de"
+  zh = "groupdocs-zh"
+  ja = "groupdocs-ja"
+  ru = "groupdocs-ru"
+  it = "groupdocs-it"
+  es = "groupdocs-es"
+  fr = "groupdocs-fr"
 
 defaultContentLanguage = 'en'
 [languages]
@@ -100,47 +100,47 @@ defaultContentLanguage = 'en'
     languageName = 'Deutsch'
     languageCode = "de"
     flag = "flag-de"
-    title = "Preisinformationen | aspose.com"
+    title = "Preisinformationen | groupdocs.com"
     weight = 4
   [languages.en]
     languageName = 'English'
     flag = "flag-us"
     languageCode = "en"
-    title = "Pricing information | aspose.com"
+    title = "Pricing information | groupdocs.com"
     weight = 3
   [languages.zh]
     languageName = '简体中文'
     flag = "flag-zh"
     languageCode = "zh"
-    title = "定价信息 | aspose.com"
+    title = "定价信息 | groupdocs.com"
     weight = 1
   [languages.ja]
     languageName = '日本語'
     flag = "flag-ja"
     languageCode = "ja"
-    title = "価格情報 | aspose.com"
+    title = "価格情報 | groupdocs.com"
     weight = 2
   [languages.ru]
     languageName = 'Русский'
     flag = "flag-ru"
     languageCode = "ru"
-    title = "Информация о ценах | aspose.com"
+    title = "Информация о ценах | groupdocs.com"
     weight = 5
   [languages.it]
     languageName = 'Italiano'
     flag = "flag-it"
     languageCode = "it"
-    title = "Informazioni sui prezzi | aspose.com"
+    title = "Informazioni sui prezzi | groupdocs.com"
     weight = 6
   [languages.es]
     languageName = 'Español'
     flag = "flag-es"
     languageCode = "es"
-    title = "Información de precio | aspose.com"
+    title = "Información de precio | groupdocs.com"
     weight = 7
   [languages.fr]
     languageName = 'Français'
     flag = "flag-fr"
     languageCode = "fr"
-    title = "Information sur les prix | aspose.com"
+    title = "Information sur les prix | groupdocs.com"
     weight = 8
