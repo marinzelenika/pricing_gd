@@ -1,0 +1,146 @@
+baseURL = 'https://example.com'
+languageCode = 'en-us'
+title = 'Pricing information | aspose.com'
+theme = 'pricing'
+draft = "false"
+
+[module]
+  [[module.mounts]]
+    source = 'prebuild/public/product'
+    target = 'content'
+    lang = 'en'
+  [[module.mounts]]
+    source = 'prebuild/public/product'
+    target = 'content'
+    lang = 'de'
+  [[module.mounts]]
+    source = 'prebuild/public/product'
+    target = 'content'
+    lang = 'zh'
+  [[module.mounts]]
+    source = 'prebuild/public/product'
+    target = 'content'
+    lang = 'ja'
+  [[module.mounts]]
+    source = 'prebuild/public/product'
+    target = 'content'
+    lang = 'ru'
+  [[module.mounts]]
+    source = 'prebuild/public/product'
+    target = 'content'
+    lang = 'it'
+  [[module.mounts]]
+    source = 'prebuild/public/product'
+    target = 'content'
+    lang = 'es'
+  [[module.mounts]]
+    source = 'prebuild/public/product'
+    target = 'content'
+    lang = 'fr'
+  [[module.mounts]]
+    source = 'themes/pricing/content'
+    target = 'content'
+    lang = 'en'
+  [[module.mounts]]
+    source = 'themes/pricing/content'
+    target = 'content'
+    lang = 'de'
+  [[module.mounts]]
+    source = 'themes/pricing/content'
+    target = 'content'
+    lang = 'zh'
+  [[module.mounts]]
+    source = 'themes/pricing/content'
+    target = 'content'
+    lang = 'ja'
+  [[module.mounts]]
+    source = 'themes/pricing/content'
+    target = 'content'
+    lang = 'ru'
+  [[module.mounts]]
+    source = 'themes/pricing/content'
+    target = 'content'
+    lang = 'it'
+  [[module.mounts]]
+    source = 'themes/pricing/content'
+    target = 'content'
+    lang = 'es'
+  [[module.mounts]]
+    source = 'themes/pricing/content'
+    target = 'content'
+    lang = 'fr'
+  [[module.mounts]]
+    source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+    target = "assets/js/bootstrap.bundle.min.js"
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'static'
+    target = 'assets'
+  
+
+[params]
+    url = "https://purchase-api.dynabic.com/v1.2/productFamily/site-groupdocs?isArchived=&pageNumber=&pageSize=&applyDisplayOrder=true&includeProducts=false"
+
+
+[params.dynamicmenuid]
+  en = "aspose-en"
+  de = "aspose-de"
+  zh = "aspose-zh"
+  ja = "aspose-ja"
+  ru = "aspose-ru"
+  it = "aspose-it"
+  es = "aspose-es"
+  fr = "aspose-fr"
+
+defaultContentLanguage = 'en'
+[languages]
+  [languages.de]
+    languageName = 'Deutsch'
+    languageCode = "de"
+    flag = "flag-de"
+    title = "Preisinformationen | aspose.com"
+    weight = 4
+  [languages.en]
+    languageName = 'English'
+    flag = "flag-us"
+    languageCode = "en"
+    title = "Pricing information | aspose.com"
+    weight = 3
+  [languages.zh]
+    languageName = '简体中文'
+    flag = "flag-zh"
+    languageCode = "zh"
+    title = "定价信息 | aspose.com"
+    weight = 1
+  [languages.ja]
+    languageName = '日本語'
+    flag = "flag-ja"
+    languageCode = "ja"
+    title = "価格情報 | aspose.com"
+    weight = 2
+  [languages.ru]
+    languageName = 'Русский'
+    flag = "flag-ru"
+    languageCode = "ru"
+    title = "Информация о ценах | aspose.com"
+    weight = 5
+  [languages.it]
+    languageName = 'Italiano'
+    flag = "flag-it"
+    languageCode = "it"
+    title = "Informazioni sui prezzi | aspose.com"
+    weight = 6
+  [languages.es]
+    languageName = 'Español'
+    flag = "flag-es"
+    languageCode = "es"
+    title = "Información de precio | aspose.com"
+    weight = 7
+  [languages.fr]
+    languageName = 'Français'
+    flag = "flag-fr"
+    languageCode = "fr"
+    title = "Information sur les prix | aspose.com"
+    weight = 8
