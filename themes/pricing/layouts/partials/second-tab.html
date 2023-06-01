@@ -42,7 +42,7 @@
         {{ if strings.Contains .Name "Metered" }}
         {{ if eq $name .Name }}
         {{ range .PaymentScheduleList }}
-        {{ if not (eq (int .Id) 98103)}}
+        {{ if not (eq (int .Id) 94679)}}
         {{ i18n "from" . }}
         <h3 style="margin: 0;">${{ $SubCharges }}/{{ i18n "month" . }}</h3>
         <p style="margin: 0; color: green; font-size:medium">+{{ .SubscriptionPeriodCharge }}/{{ i18n "year" . }} </p>

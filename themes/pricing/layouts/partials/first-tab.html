@@ -42,7 +42,7 @@
         if eq $lastchar "1" }}
         {{ if eq $name .Name }}
         {{ range .PaymentScheduleList }}
-        {{ if not (eq (int .Id) 98086)}}
+        {{ if not (eq (int .Id) 94671)}}
         <h3 style="margin: 0;">${{ add $SubCharges .SubscriptionPeriodCharge }}</h3>
         <p style="font-size: small;"><a href="https://helpdesk.groupdocs.com">{{ i18n "with-paid-support" . }}</a></p>
         {{ $linkUrlwPaidSupport := print "https://purchase.groupdocs.com/buy/cart?ppId=" ""
