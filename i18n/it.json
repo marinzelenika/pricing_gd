@@ -1,85 +1,52 @@
 [
   {
-    "desc-Aspose.Total Product Family": {
-      "other": "Manipola documenti Word, Excel, PDF e oltre 100 altri formati di file utilizzando le nostre API native per .NET, Java, C++ e altre piattaforme."
+    "desc-GroupDocs.Total Product Family": {
+      "other": "Manipola documenti all'interno delle tue soluzioni desktop e delle app web senza richiedere altri prodotti commerciali."
     },
-    "desc-Aspose.Words Product Family": {
-      "other": "API native per creare, modificare, convertire e stampare documenti Word da qualsiasi applicazione Desktop, Web o Mobile."
+    "desc-GroupDocs.Viewer Product Family": {
+      "other": "Soluzione flessibile di visualizzazione dei documenti per programmatori e professionisti per renderizzare e visualizzare formati di file ampiamente utilizzati ovunque."
     },
-    "desc-Aspose.Cells Product Family": {
-      "other": "API native per creare, modificare, convertire e visualizzare file Excel. Esporta fogli di calcolo in vari formati su qualsiasi piattaforma."
+    "desc-GroupDocs.Conversion Product Family": {
+      "other": "Converti formati di file documenti e immagini popolari su qualsiasi piattaforma con soluzioni basate su app e API."
     },
-    "desc-Aspose.PDF Product Family": {
-      "other": "API native per generare, manipolare, comprimere, proteggere o convertire file PDF in vari formati senza Adobe Acrobat."
+    "desc-GroupDocs.Editor Product Family": {
+      "other": "Editor di documenti per manipolare formati di file documenti Microsoft Office, OpenOffice, PDF, HTML e altri."
     },
-    "desc-Aspose.Slides Product Family": {
-      "other": "API native per .NET, Java, C++ e Android per generare, gestire e convertire presentazioni e diapositive PowerPoint."
+    "desc-Groupdocs.Merger Product Family": {
+      "other": "Unisci facilmente più documenti o dividi documenti Microsoft Office, OpenOffice, PDF e altri in pagine."
     },
-    "desc-Aspose.Email Product Family": {
-      "other": "API native per creare, manipolare e convertire email e file di archiviazione di Outlook. Implementa protocolli di rete come SMTP, POP3 e IMAP."
+    "desc-GroupDocs.Comparison Product Family": {
+      "other": "Confronta contenuti e stili di documenti su piattaforme popolari con le nostre API e soluzioni basate su app in locale e nel cloud."
     },
-    "desc-Aspose.BarCode Product Family": {
-      "other": "Sviluppa app ad alte prestazioni con la capacità di creare e scansionare etichette a barre 1D, 2D e postali."
+    "desc-GroupDocs.Annotation Product Family": {
+      "other": "Annota documenti con le nostre app o crea le tue applicazioni di annotazione personalizzate su piattaforme popolari utilizzando API in locale o nel cloud."
     },
-    "desc-Aspose.Imaging Product Family": {
-      "other": "API native per disegnare, manipolare, trasformare e convertire immagini."
+    "desc-GroupDocs.Assembly Product Family": {
+      "other": "Genera automaticamente rapporti in diversi formati da modelli personalizzati e diverse origini di dati con le nostre app e API multipiattaforma."
     },
-    "desc-Aspose.HTML Product Family": {
-      "other": "API native per generare, leggere e modificare pagine HTML con stili CSS e convertirle in PDF e vari formati di immagine."
+    "desc-GroupDocs.Parser Product Family": {
+      "other": "Estrai testo, immagini, metadati e rilevamento della codifica per documenti Microsoft Office, OpenOffice, PDF, HTML e altri formati di file a tua scelta."
     },
-    "desc-Aspose.Tasks Product Family": {
-      "other": "API native per .NET, Java e C++ per creare, modificare e convertire file di progetto Microsoft."
+    "desc-GroupDocs.Signature Product Family": {
+      "other": "Firma documenti digitali e immagini su qualsiasi piattaforma utilizzando le nostre API flessibili e soluzioni basate su app per programmatori e utenti finali."
     },
-    "desc-Aspose.Diagram Product Family": {
-      "other": "API .NET e Java per creare, modificare e convertire file Microsoft Visio su qualsiasi piattaforma."
+    "desc-GroupDocs.Metadata Product Family": {
+      "other": "API e app per leggere, modificare, sostituire e rimuovere metadati di documenti, immagini e altri formati di file su piattaforme popolari."
     },
-    "desc-Aspose.OCR Product Family": {
-      "other": "API native .NET, Java e C++ per aggiungere la capacità OCR alle tue applicazioni."
+    "desc-GroupDocs.Search Product Family": {
+      "other": "Esegui la ricerca di testo e l'indicizzazione su documenti Microsoft Office, OpenOffice, PDF e molti altri formati di file documenti."
     },
-    "desc-Aspose.Note Product Family": {
-      "other": "API native .NET e Java per creare, modificare e convertire documenti Microsoft OneNote."
+    "desc-GroupDocs.Watermark Product Family": {
+      "other": "Applica e manipola rapidamente filigrane di testo e immagini ai tuoi documenti e immagini con una ricerca intelligente."
     },
-    "desc-Aspose.CAD Product Family": {
-      "other": "API native .NET e Java per convertire disegni AutoCAD DWG e DXF in PDF e immagini raster."
+    "desc-Groupdocs.Redaction Product Family": {
+      "other": "Nascondi o rimuovi informazioni private da documenti Microsoft Office, fogli di calcolo, presentazioni, PDF e immagini."
     },
-    "desc-Aspose.ZIP Product Family": {
-      "other": "Comprimi o decomprimi file o modifica archivi esistenti tramite API .NET."
-    },
-    "desc-Aspose.3D Product Family": {
-      "other": "API native per leggere, modificare e convertire formati di documenti 3D senza bisogno di software di modellazione o rendering 3D."
-    },
-    "desc-Aspose.GIS Product Family": {
-      "other": "API native per creare applicazioni di mappatura e localizzazione basate su GIS per qualsiasi piattaforma."
-    },
-    "desc-Aspose.PSD Product Family": {
-      "other": "API .NET e Java per creare, modificare e convertire file Adobe Photoshop e Adobe Illustrator."
-    },
-    "desc-Aspose.Page Product Family": {
-      "other": "API native per creare e manipolare file XPS. Converti file XPS, PS ed EPS in PDF e immagini raster su qualsiasi piattaforma."
-    },
-    "desc-Aspose.SVG Product Family": {
-      "other": "API native .NET per caricare, salvare e convertire file SVG senza dipendenze da altri software."
-    },
-    "desc-Aspose.PUB Product Family": {
-      "other": "API native .NET per convertire file PUB in PDF senza dipendenze da altri software."
-    },
-    "desc-Aspose.OMR Product Family": {
-      "other": "API native per riconoscere documenti e foto scannerizzati in vari formati di immagine, inclusi BMP, JPG, TIF, TIFF e GIF."
-    },
-    "desc-Aspose.Finance Product Family": {
-      "other": "API native .NET per manipolare formati legati alle finanze come XBRL e iXBRL senza dipendenze da altri software."
-    },
-    "desc-Aspose.Drawing Product Family": {
-      "other": "API native per analizzare disegni 2D, inclusa la rappresentazione di grafica vettoriale e testo senza dipendenze da altri software."
-    },
-    "desc-Aspose.Font Product Family": {
-      "other": "API native per caricare, disegnare e salvare più font senza dipendenze da altri software."
-    },
-    "desc-Aspose.TeX Product Family": {
-      "other": "API native per comporre file TeX."
+    "desc-GroupDocs.Classification Product Family": {
+      "other": "Classifica in modo programmato documenti e testo in categorie accurate utilizzando IAB (versione 2) e tassonomie dei documenti all'interno di qualsiasi tipo di applicazione .NET."
     },
     "only-supported": {
-      "other": "Questo prodotto è attualmente supportato solo per la piattaforma .NET e quindi non è disponibile un pacchetto famiglia."
+      "other": "Questo prodotto è attualmente supportato solo per la piattaforma .NET e quindi non è disponibile alcun pacchetto famiglia."
     },
     "from": {
       "other": "da"
@@ -97,7 +64,7 @@
       "other": "Ottieni tutte le piattaforme in un pacchetto famiglia a partire da"
     },
     "select": {
-      "other": "Seleziona pacchetto famiglia"
+      "other": "Seleziona il pacchetto famiglia"
     },
     "family": {
       "other": "Famiglia"
@@ -109,7 +76,7 @@
       "other": "Prezzi"
     },
     "home-description": {
-      "other": "Consenti alle tue applicazioni di manipolare documenti Word, Excel, PDF, PowerPoint e oltre 100 altri formati di file per tutte le principali piattaforme."
+      "other": "Potenzia le tue app web, mobili o desktop con la capacità di visualizzare, annotare, convertire, firmare digitalmente, confrontare e assemblare documenti."
     },
     "estimate": {
       "other": "Puoi stimare i costi mensili utilizzando il nostro"
@@ -142,16 +109,16 @@
       "other": "Sviluppatori con licenza"
     },
     "derived-work": {
-      "other": "Utilizzo di lavoro derivato in diverse sedi"
+      "other": "Utilizzo di opere derivate in posizioni"
     },
     "enterprise-deployment": {
-      "other": "Implementazione aziendale"
+      "other": "Distribuzione aziendale"
     },
     "unlimited-servers": {
-      "other": "Deploy su server illimitati"
+      "other": "Deployment su server illimitati"
     },
     "use-with-web-sites": {
-      "other": "Per l'uso con siti web/applicazioni"
+      "other": "Per l'uso con siti web/app"
     },
     "external-distribution": {
       "other": "Consente la distribuzione esterna"
@@ -175,7 +142,7 @@
       "other": "Può essere utilizzato per creare applicazioni illimitate"
     },
     "discount-applied": {
-      "other": "Sconto applicato agli acquisti multipli"
+      "other": "Sconto applicato per acquisti multipli"
     },
     "technical-support": {
       "other": "Supporto tecnico gratuito"
@@ -193,48 +160,45 @@
       "other": "Annuale"
     },
     "expl1": {
-      "other": "Sviluppatore: un Sviluppatore può essere un programmatore, un amministratore di sistema, un autore di report o qualsiasi altra persona che utilizza il prodotto. Ogni sviluppatore che lavora con i prodotti Aspose deve essere dotato di licenza."
+      "other": "Sviluppatore: un Sviluppatore potrebbe essere un programmatore, un amministratore di sistemi, un autore di report o qualsiasi altra persona che utilizza il prodotto. Ogni sviluppatore che lavora con i prodotti Aspose deve essere concesso in licenza."
     },
     "expl2": {
-      "other": "Sede: Una sede è la posizione fisica in cui viene utilizzato un lavoro derivato; ogni indirizzo o edificio ufficio distinto, all'interno o all'esterno di un'organizzazione. Lavoro derivato: un programma software, un sito web, un generatore di report o qualsiasi altra soluzione, lavoro o prodotto che incorpora o utilizza i prodotti Aspose."
+      "other": "Posizione: una Posizione è la posizione fisica in cui viene utilizzata un'opera derivata; ogni indirizzo o edificio ufficio distinto, all'interno o all'esterno di un'organizzazione. Opera derivata: un programma software, un sito, un generatore di report o qualsiasi altra soluzione, lavoro o prodotto che incorpora o utilizza i prodotti Aspose."
     },
     "expl3": {
-      "other": "Consente la distribuzione di lavori derivati su un numero illimitato di server fisici o virtuali in un numero illimitato di sedi fisiche (indirizzo o edificio ufficio distinto). Lavoro derivato: un programma software, un sito web, un generatore di report o qualsiasi altra soluzione, lavoro o prodotto che incorpora o utilizza i prodotti Aspose."
+      "other": "Consente la distribuzione di opere derivate su un numero illimitato di server fisici o virtuali in un numero illimitato di posizioni fisiche (indirizzo o edificio ufficio distinto). Opera derivata: un programma software, un sito, un generatore di report o qualsiasi altra soluzione, lavoro o prodotto che incorpora o utilizza i prodotti Aspose."
     },
     "expl4": {
-      "other": "Consente l'utilizzo del prodotto all'interno di un'unica distribuzione dell'app all'interno di un'azienda (Impresa)."
+      "other": "Consente l'utilizzo del prodotto all'interno di una distribuzione dell'app all'interno di un'azienda (Impresa)."
     },
     "expl5": {
-      "other": "Consente la distribuzione di lavori derivati su siti web/applicazioni pubbliche, extranet, intranet multi-sito o scenari di utilizzo di progetti SaaS."
+      "other": "Consente la distribuzione di opere derivate su siti web/app accessibili al pubblico, su extranet, su intranet multi-sito o su scenari di utilizzo di progetti SaaS."
     },
     "expl6": {
-      "other": "Consente la distribuzione di lavori derivati a terzi (ad esempio, incorporati in software venduto ad altri)."
+      "other": "Consente la distribuzione di opere derivate a terzi (ad esempio, incorporate in software venduto ad altri)."
     },
     "expl7": {
-      "other": "Utilizza la licenza senza dover pagare royalty o tariffe di licenza per ogni utilizzo, per ogni copia o volume venduto."
+      "other": "Utilizzare la licenza senza dover pagare royalty o tasse di licenza per ogni utilizzo, per ogni copia o volume venduto."
     },
     "expl8": {
-      "other": "Se produci software con un'API per consentire ad altri sviluppatori di utilizzarlo, allora questo si applica a te."
+      "other": "Se produci software con un'API destinata ad altri sviluppatori, allora ciò si applica a te."
     },
     "expl9": {
-      "other": "Perpetua: la licenza per l'utilizzo del prodotto non scade. Pagamento in base all'utilizzo: paga royalty per l'utilizzo del prodotto ogni mese."
+      "other": "Perpetua: La licenza per utilizzare il prodotto non scade. Pagamento in base all'uso: Pagare le royalty per l'utilizzo del prodotto ogni mese."
     },
     "expl10": {
-      "other": "Un acquisto include una sottoscrizione che ti dà diritto a un anno di aggiornamenti del prodotto. Una volta trascorso l'anno, sei comunque autorizzato a utilizzare il prodotto, quindi le tue applicazioni esistenti che utilizzano Aspose continueranno a funzionare, ma per scaricare e utilizzare ulteriori aggiornamenti del prodotto dovrai prima rinnovare la tua sottoscrizione. Nota: questo non si applica alle licenze Metered, che sono sempre aggiornate."
+      "other": "Un acquisto include un abbonamento che ti dà diritto a un anno di aggiornamenti del prodotto. Quando è trascorso l'anno, sei comunque autorizzato a utilizzare il prodotto, quindi le tue applicazioni esistenti che utilizzano Aspose continueranno a funzionare. Tuttavia, per scaricare e utilizzare ulteriori aggiornamenti del prodotto, dovrai prima rinnovare il tuo abbonamento. Nota: Questo non si applica alle licenze Metered, che sono sempre aggiornate."
     },
     "expl11": {
       "other": "Non ci sono limiti al numero di applicazioni che puoi creare con i prodotti Aspose."
     },
     "expl12": {
-      "other": "Non ci sono limiti al numero di applicazioni che puoi creare con i prodotti Aspose."
+      "other": "Acquista più licenze Aspose e ricevi uno sconto. Le licenze Metered contengono sconti integrati, in quanto l'aggiunta di sviluppatori aggiuntivi non comporta un aumento dei costi."
     },
     "expl13": {
-      "other": "Acquista licenze multiple e ricevi uno sconto. Le licenze Metered contengono sconti integrati, poiché l'aggiunta di sviluppatori aggiuntivi non comporta costi aggiuntivi."
+      "other": "Ricevi supporto tecnico gratuito prima dell'acquisto o anche se la tua sottoscrizione di manutenzione è scaduta. Per il supporto prioritario, consulta le opzioni di supporto a pagamento."
     },
     "expl14": {
-      "other": "Ricevi supporto tecnico gratuito prima dell'acquisto o anche se la tua sottoscrizione di manutenzione è scaduta. Per un supporto prioritario, consulta le opzioni di supporto a pagamento."
-    },
-    "expl15": {
       "other": "Questo non si applica alle licenze Metered, che sono sempre aggiornate."
     },
     "total-credits": {
@@ -253,7 +217,7 @@
       "other": "Tariffa fissa"
     },
     "next": {
-      "other": "Avanti"
+      "other": "Successivo"
     },
     "fixed": {
       "other": "Fisso"
@@ -271,7 +235,7 @@
       "other": "Prezzo totale"
     },
     "metered": {
-      "other": "Metered"
+      "other": "Misurato"
     },
     "get-temp-lic": {
       "other": "Ottieni una licenza temporanea"

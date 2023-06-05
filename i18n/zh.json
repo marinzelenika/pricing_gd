@@ -1,280 +1,247 @@
 [
-    {
-      "desc-Aspose.Total Product Family": {
-        "other": "使用我们的.NET、Java、C++和其他平台的原生API操作Word、Excel、PDF和其他100多种文件格式。"
-      },
-      "desc-Aspose.Words Product Family": {
-        "other": "原生API，可从任何桌面、Web或移动应用创建、编辑、转换和打印Word文档。"
-      },
-      "desc-Aspose.Cells Product Family": {
-        "other": "原生API，可以创建、编辑、转换和呈现Excel文件。在任何平台上导出多种格式的电子表格。"
-      },
-      "desc-Aspose.PDF Product Family": {
-        "other": "原生API，可以生成、操作、压缩、安全或转换PDF文件到多种格式，无需Adobe Acrobat。"
-      },
-      "desc-Aspose.Slides Product Family": {
-        "other": ".NET、Java、C++和Android的原生API，用于生成、管理和转换PowerPoint演示文稿和幻灯片。"
-      },
-      "desc-Aspose.Email Product Family": {
-        "other": "原生API，用于创建、操作和转换Outlook邮件和存储文件。实现SMTP、POP3和IMAP等网络协议。"
-      },
-      "desc-Aspose.BarCode Product Family": {
-        "other": "开发高性能应用，具有创建和扫描1D、2D和邮政条形码标签的能力。"
-      },
-      "desc-Aspose.Imaging Product Family": {
-        "other": "原生API，用于绘制、操作、转换和转换图像。"
-      },
-      "desc-Aspose.HTML Product Family": {
-        "other": "原生API，生成、读取和编辑HTML页面，包括CSS样式，以及转换为PDF和多种图像格式。"
-      },
-      "desc-Aspose.Tasks Product Family": {
-        "other": ".NET、Java和C++的原生API，用于创建、编辑和转换Microsoft Project文件。"
-      },
-      "desc-Aspose.Diagram Product Family": {
-        "other": ".NET和Java API，用于在任何平台上创建、编辑和转换Microsoft Visio文件。"
-      },
-      "desc-Aspose.OCR Product Family": {
-        "other": "原生的.NET、Java和C++ API，可以在您自己的应用程序中添加OCR功能。"
-      },
-      "desc-Aspose.Note Product Family": {
-        "other": "原生的.NET和Java API，用于创建、编辑和转换Microsoft OneNote文档。"
-      },
-      "desc-Aspose.CAD Product Family": {
-        "other": "原生的.NET和Java API，可以将AutoCAD DWG和DXF图纸转换为PDF和光栅图像"
-      },
-      "desc-Aspose.ZIP Product Family": {
-        "other": "通过.NET API压缩或解压缩文件，或修改现有的存档。"
-      },
-      "desc-Aspose.3D Product Family": {
-        "other": "原生的.NET、Java和C++ API，可用于在应用程序中创建、编辑和转换3D模型。"
-      },
-      "desc-Aspose.GIS Product Family": {
-        "other": "原生API，用于创建、编辑和转换地理信息系统(GIS)数据。"
-      },
-      "desc-Aspose.PSD Product Family": {
-        "other": "原生的.NET和Java API，用于处理PSD和PSB文件。"
-      },
-      "desc-Aspose.Page Product Family": {
-        "other": "原生的.NET和Java API，用于处理XPS、EPS、PS和AI文件。"
-      },
-      "desc-Aspose.Finance Product Family": {
-        "other": "原生的.NET和Java API，用于处理XBRL和iXBRL文件。"
-      },
-      "desc-Aspose.Drawing Product Family": {
-        "other": ".NET API，用于创建和处理图形和图像。"
-      },
-      "desc-Aspose.Font Product Family": {
-        "other": "原生的.NET和Java API，用于处理字体文件。"
-      },
-      "desc-Aspose.SVG Product Family": {
-        "other": "原生的.NET和Java API，用于处理SVG文件。"
-      },
-      "desc-Aspose.PUB Product Family": {
-        "other": "原生 .NET API，无需任何软件依赖即可将 PUB 文件转换为 PDF。"
-      },
-      "desc-Aspose.OMR Product Family": {
-        "other": "原生 API，能够识别多种图像格式（包括 BMP，JPG，TIF，TIFF 和 GIF）的扫描文档和照片。"
-      },
-      "desc-Aspose.TeX Product Family": {
-        "other": "用于排版TeX文件的原生API。"
-      },
-      "only-supported": {
-        "other": "该产品目前仅支持.NET平台，因此没有可用的家族包。"
-      },
-      "from": {
-        "other": "从"
-      },
-      "per": {
-        "other": "每平台，每年"
-      },
-      "choose-platform": {
-        "other": "选择一个平台"
-      },
-      "or": {
-        "other": "或者"
-      },
-      "getall": {
-        "other": "从起始价获取家族包中的所有平台"
-      },
-      "select": {
-        "other": "选择家族包"
-      },
-      "family": {
-        "other": "家族"
-      },
-      "pricing-info": {
-        "other": "定价信息"
-      },
-      "pricing": {
-        "other": "定价"
-      },
-      "home-description": {
-        "other": "使您的应用能够操控 Word、Excel、PDF、PowerPoint 以及其他 100 多种文件格式，支持所有主要平台。"
-      },
-      "estimate": {
-        "other": "您可以使用我们的"
-      },
-      "simulator": {
-        "other": "模拟器"
-      },
-      "with-free-support": {
-        "other": "免费支持"
-      },
-      "with-paid-support": {
-        "other": "付费支持"
-      },
-      "select-only": {
-        "other": "选择"
-      },
-      "per-developer-per-month": {
-        "other": "每位开发者每月"
-      },
-      "with-paid-consulting": {
-        "other": "带有付费咨询"
-      },
-      "month": {
-        "other": "月"
-      },
-      "year": {
-        "other": "年"
-      },
-      "developers-licensed": {
-        "other": "已许可的开发者"
-      },
-      "derived-work": {
-        "other": "在位置使用的派生作品"
-      },
-      "enterprise-deployment": {
-        "other": "企业部署"
-      },
-      "unlimited-servers": {
-        "other": "部署到无限的服务器"
-      },
-      "use-with-web-sites": {
-        "other": "用于网站/应用"
-      },
-      "external-distribution": {
-        "other": "允许外部分发"
-      },
-      "royalty-free": {
-        "other": "免版税"
-      },
-      "use-in-a": {
-        "other": "在开发库、API或SDK中使用"
-      },
-      "license-type": {
-        "other": "许可类型"
-      },
-      "perpetual": {
-        "other": "永久"
-      },
-      "updates-and-hotfixes": {
-        "other": "一年的更新和热修复"
-      },
-      "can-be-used": {
-        "other": "可用于创建无限的应用程序"
-      },
-      "discount-applied": {
-        "other": "对多次购买应用的折扣"
-      },
-      "technical-support": {
-        "other": "免费技术支持"
-      },
-      "note": {
-        "other": "注：所有价格均以"
-      },
-      "help-me-choose": {
-        "other": "帮我选择正确的许可类型"
-      },
-      "pay-per-use": {
-        "other": "按使用次数付费"
-      },
-      "yearly": {
-        "other": "每年"
-      },
-      "expl1": {
-        "other": "开发者：开发者可能是软件开发者、系统管理员、报告作者或任何其他使用该产品的人。每个使用Aspose产品的开发者都需要许可。"
-      },
-      "expl2": {
-        "other": "位置：位置是使用派生作品的物理位置；组织内外的每个不同地址或办公楼。派生作品：软件程序、站点、报告构建器或任何其他结合或使用Aspose产品的解决方案、工作或产品。"
-      },
-      "expl3": {
-        "other": "允许将派生作品分发到无限数量的物理或虚拟服务器，位于无限数量的物理位置（不同的地址或办公楼）。派生作品：软件程序、站点、报告构建器或任何其他结合或使用Aspose产品的解决方案、工作或产品。"
-      },
-      "expl4": {
-        "other": "允许产品在一个企业（公司）内的一个应用部署中使用。"
-      },
-      "expl5": {
-        "other": "允许将派生作品分发到面向公众的网站/应用，外联网，多站点内联网或SaaS项目使用场景。"
-      },
-      "expl6": {
-        "other": "允许将派生作品分发给第三方（例如嵌入到销售给他人的软件中）。"
-      },
-      "expl7": {
-        "other": "无需为每次使用、每份复印或销售的数量支付版税或许可费即可使用许可。"
-      },
-      "expl8": {
-        "other": "如果你制作了供其他开发者使用的API的软件，那么这适用于你。"
-      },
-      "expl9": {
-        "other": "永久：使用产品的许可不会过期。按使用次数付费：每月支付产品使用费。"
-      },
-      "expl10": {
-        "other": "购买包括订阅，这使您有权使用一年的产品更新。当一年过去后，您仍然可以使用产品，所以您使用Aspose的现有应用程序将继续运行，但要下载并使用产品的进一步更新，您首先需要更新您的订阅。注意：这不适用于始终最新的计量许可。"
-      },
-      "expl11": {
-        "other": "您使用Aspose产品创建的应用程序没有数量限制。"
-      },
-      "expl12": {
-        "other": "您使用Aspose产品创建的应用程序没有数量限制。"
-      },
-      "expl13": {
-        "other": "购买多个许可并获得折扣。计量许可包含内置折扣，因为添加额外的开发者并不增加成本。"
-      },
-      "expl14": {
-        "other": "在购买前或即使您的维护订阅已过期，都可以免费获得技术支持。查看付费支持选项以获得优先支持"
-      },
-      "expl15": {
-        "other": "这不适用于始终最新的计量许可。"
-      },
-      "total-credits": {
-        "other": "总积分"
-      },
-      "rate-credit": {
-        "other": "费率/积分"
-      },
-      "price-month": {
-        "other": "价格/月"
-      },
-      "to": {
-        "other": "至"
-      },
-      "flat-rate": {
-        "other": "固定费率"
-      },
-      "next": {
-        "other": "下一个"
-      },
-      "fixed": {
-        "other": "固定"
-      },
-      "any-additional": {
-        "other": "任何附加的"
-      },
-      "calculate": {
-        "other": "计算"
-      },
-      "processed-credits": {
-        "other": "处理的总积分"
-      },
-      "total-price": {
-        "other": "总价"
-      },
-      "metered": {
-        "other": "计量的"
-      },
-      "get-temp-lic": {
-        "other": "获得临时许可证"
-      }
+  {
+    "desc-GroupDocs.Total Product Family": {
+      "other": "在您自己的桌面解决方案和 Web 应用程序中操作文档，无需其他商业产品。"
+    },
+    "desc-GroupDocs.Viewer Product Family": {
+      "other": "灵活的文档查看解决方案，供程序员和专业人士在任何地方呈现和显示广泛使用的文件格式。"
+    },
+    "desc-GroupDocs.Conversion Product Family": {
+      "other": "在任何平台上使用应用程序和基于 API 的解决方案转换流行的文档和图像文件格式。"
+    },
+    "desc-GroupDocs.Editor Product Family": {
+      "other": "文档编辑器，用于操作 Microsoft Office、OpenOffice、PDF、HTML 和其他文档文件格式。"
+    },
+    "desc-Groupdocs.Merger Product Family": {
+      "other": "轻松合并多个文档或将 Microsoft Office、OpenOffice、PDF 和其他文档拆分为页面。"
+    },
+    "desc-GroupDocs.Comparison Product Family": {
+      "other": "使用我们的本地和云 API 和基于应用程序的解决方案，在流行的平台上比较文档内容和样式。"
+    },
+    "desc-GroupDocs.Annotation Product Family": {
+      "other": "使用我们的应用程序注释文档，或构建您自己的自定义注释应用程序，在流行的平台上使用本地或云 API。"
+    },
+    "desc-GroupDocs.Assembly Product Family": {
+      "other": "使用我们的跨平台应用程序和 API，从自定义模板和不同数据源中以不同格式自动生成报告。"
+    },
+    "desc-GroupDocs.Parser Product Family": {
+      "other": "提取您选择的 Microsoft Office、OpenOffice、PDF、HTML 和其他文件格式的文本、图像、元数据和编码检测。"
+    },
+    "desc-GroupDocs.Signature Product Family": {
+      "other": "使用我们灵活的 API 和基于应用程序的解决方案，在任何平台上对数字文档和图像进行签名。供程序员和最终用户使用。"
+    },
+    "desc-GroupDocs.Metadata Product Family": {
+      "other": "用于在流行的平台上读取、编辑、替换和删除文档、图像和其他文件格式的元数据的 API 和应用程序。"
+    },
+    "desc-GroupDocs.Search Product Family": {
+      "other": "在 Microsoft Office、OpenOffice、PDF 和许多其他文档文件格式上执行文本搜索和索引。"
+    },
+    "desc-GroupDocs.Watermark Product Family": {
+      "other": "使用智能搜索快速应用和操作文档和图像的基于文本和图像的水印。"
+    },
+    "desc-Groupdocs.Redaction Product Family": {
+      "other": "从 Microsoft Office 文档、电子表格、演示文稿、PDF 和图像中隐藏或删除私人信息。"
+    },
+    "desc-GroupDocs.Classification Product Family": {
+      "other": "使用 IAB（版本 2）和文档分类法在任何类型的 .NET 应用程序中以准确的分类对文档和文本进行编程分类。"
+    },
+    "only-supported": {
+      "other": "该产品目前仅支持 .NET 平台，因此没有提供家庭套装。"
+    },
+    "from": {
+      "other": "从"
+    },
+    "per": {
+      "other": "每个平台，每年"
+    },
+    "choose-platform": {
+      "other": "选择一个平台"
+    },
+    "or": {
+      "other": "或"
+    },
+    "getall": {
+      "other": "从起始价格获取所有平台的家庭套装"
+    },
+    "select": {
+      "other": "选择家庭套装"
+    },
+    "family": {
+      "other": "家族"
+    },
+    "pricing-info": {
+      "other": "定价信息"
+    },
+    "pricing": {
+      "other": "定价"
+    },
+    "home-description": {
+      "other": "通过能够显示、注释、转换、电子签名、比较和组装文档，增强您的 Web、移动或桌面应用程序的功能。"
+    },
+    "estimate": {
+      "other": "您可以使用我们的"
+    },
+    "simulator": {
+      "other": "模拟器"
+    },
+    "with-free-support": {
+      "other": "提供免费支持"
+    },
+    "with-paid-support": {
+      "other": "提供付费支持"
+    },
+    "select-only": {
+      "other": "选择"
+    },
+    "per-developer-per-month": {
+      "other": "每开发人员，每月"
+    },
+    "with-paid-consulting": {
+      "other": "提供付费咨询"
+    },
+    "month": {
+      "other": "月"
+    },
+    "year": {
+      "other": "年"
+    },
+    "developers-licensed": {
+      "other": "许可的开发人员"
+    },
+    "derived-work": {
+      "other": "在位置使用衍生作品"
+    },
+    "enterprise-deployment": {
+      "other": "企业部署"
+    },
+    "unlimited-servers": {
+      "other": "部署到无限数量的服务器"
+    },
+    "use-with-web-sites": {
+      "other": "供网站/应用程序使用"
+    },
+    "external-distribution": {
+      "other": "允许外部分发"
+    },
+    "royalty-free": {
+      "other": "免版税"
+    },
+    "use-in-a": {
+      "other": "在开发库、API 或 SDK 中使用"
+    },
+    "license-type": {
+      "other": "许可类型"
+    },
+    "perpetual": {
+      "other": "永久"
+    },
+    "updates-and-hotfixes": {
+      "other": "一年内的更新和热修复"
+    },
+    "can-be-used": {
+      "other": "可用于创建无限数量的应用程序"
+    },
+    "discount-applied": {
+      "other": "多次购买可享受折扣"
+    },
+    "technical-support": {
+      "other": "免费技术支持"
+    },
+    "note": {
+      "other": "注意：所有价格均以"
+    },
+    "help-me-choose": {
+      "other": "帮助我选择正确的许可类型"
+    },
+    "pay-per-use": {
+      "other": "按使用付费"
+    },
+    "yearly": {
+      "other": "年度"
+    },
+    "expl1": {
+      "other": "开发人员：可以是软件开发人员、系统管理员、报表作者或任何使用该产品的人员。每个与 Aspose 产品一起工作的开发人员都需要获得许可。"
+    },
+    "expl2": {
+      "other": "位置：位置是使用衍生作品的物理位置；组织内或外的每个不同地址或办公楼。衍生作品：包含或使用 Aspose 产品的软件程序、站点、报表生成器或任何其他解决方案、工作或产品。"
+    },
+    "expl3": {
+      "other": "允许在无限数量的物理或虚拟服务器以及无限数量的物理位置（不同的地址或办公楼）上分发衍生作品。衍生作品：包含或使用 Aspose 产品的软件程序、站点、报表生成器或任何其他解决方案、工作或产品。"
+    },
+    "expl4": {
+      "other": "允许产品在一个企业（公司）内的一个应用部署中使用"
+    },
+    "expl5": {
+      "other": "允许在公共面向的网站/应用程序、外部网络、多站点内部网络或 SaaS 项目使用场景中分发衍生作品。"
+    },
+    "expl6": {
+      "other": "允许将衍生作品分发给第三方（例如嵌入在销售给他人的软件中）。"
+    },
+    "expl7": {
+      "other": "使用许可无需为每次使用、每个副本或销售的每个数量支付版税或许可费。"
+    },
+    "expl8": {
+      "other": "如果您为其他开发人员提供使用的 API 开发软件，则适用于您。"
+    },
+    "expl9": {
+      "other": "永久许可：使用产品的许可不会过期。按使用付费：每月支付使用产品的版税。"
+    },
+    "expl10": {
+      "other": "购买包括订阅，使您有权获得一年的产品更新。当一年过去后，您仍然有权使用产品，因此使用 Aspose 的现有应用程序将继续正常运行，但要下载和使用产品的进一步更新，您首先必须续订订阅。注意：此规则不适用于按使用付费的许可证，该许可证始终保持最新状态。"
+    },
+    "expl11": {
+      "other": "使用 Aspose 产品创建的应用程序数量没有限制。"
+    },
+    "expl12": {
+      "other": "使用 Aspose 产品创建的应用程序数量没有限制。"
+    },
+    "expl13": {
+      "other": "购买多个许可证可享受折扣。按使用付费的许可证已经包含内建的折扣，因为添加额外的开发人员不会增加成本。"
+    },
+    "expl14": {
+      "other": "在购买之前或即使您的维护订阅已过期，您都可以获得免费技术支持。如需优先支持，请查看付费支持选项。"
+    },
+    "expl15": {
+      "other": "此规则不适用于按使用付费的许可证，该许可证始终保持最新状态。"
+    },
+    "total-credits": {
+      "other": "总信用额"
+    },
+    "rate-credit": {
+      "other": "费率/信用额"
+    },
+    "price-month": {
+      "other": "每月价格"
+    },
+    "to": {
+      "other": "到"
+    },
+    "flat-rate": {
+      "other": "固定费率"
+    },
+    "next": {
+      "other": "下一步"
+    },
+    "fixed": {
+      "other": "固定"
+    },
+    "any-additional": {
+      "other": "任何额外的"
+    },
+    "calculate": {
+      "other": "计算"
+    },
+    "processed-credits": {
+      "other": "总处理信用额"
+    },
+    "total-price": {
+      "other": "总价格"
+    },
+    "metered": {
+      "other": "按使用付费"
+    },
+    "get-temp-lic": {
+      "other": "获取临时许可证"
     }
-    ]
+  }
+]
